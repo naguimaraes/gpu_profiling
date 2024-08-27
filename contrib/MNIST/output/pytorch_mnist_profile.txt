@@ -1,0 +1,7 @@
+Run, Average Power (Watts), Memory Allocation (MiB), Time (Milliseconds)
+1, 32.6626, 784.203, 32078
+2, 31.6703, 764.811, 32669
+3, 29.9858, 725.694, 32471
+Average Power Consumption Through 3 run(s): (31.43 ± 1.10) W
+Average GPU Memory Allocation Through 3 run(s): (758.23 ± 24.33) MiB
+Average Execution Time Through 3 run(s): (32406.00 ± 245.61) ms
